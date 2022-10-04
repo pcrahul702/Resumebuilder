@@ -64,3 +64,5 @@ function education(){
                 acment.insertBefore(newnode,caddbtn);
                 
                 }
+                
+                
